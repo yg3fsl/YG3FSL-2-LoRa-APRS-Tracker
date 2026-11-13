@@ -6,9 +6,9 @@ Firmware yang disertakan adalah versi **v1.2** dengan callsign **YG3FSL-2**.
 
 ## Tampilan wiring
 
-![Wiring diagram YG3FSL-2](hardware/wiring-diagram.png)
+![Wiring diagram YG3FSL-2](wiring-diagram.png)
 
-File versi vektor: [wiring-diagram.svg](hardware/wiring-diagram.svg).
+File versi vektor: [wiring-diagram.svg](wiring-diagram.svg).
 
 ## Komponen
 
